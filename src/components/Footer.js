@@ -171,7 +171,7 @@ const Footer = () => {
       </Container>
       <Bottom>
         <span>
-          &copy; {new Date().getFullYear()} Tycoonies. All rights reserved.
+          &copy; {new Date().getFullYear()} Tycoonie Kingdoms. All rights reserved.
         </span>
         <span>
         </span>
