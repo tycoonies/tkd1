@@ -147,7 +147,7 @@ const Banner = () => {
             <img width={500} height={400}  src={img6} alt="The Weirdos" />
 
         </ImgContainer>
-        <Title>Join the  <br /> Tycoonies  </Title>
+        <Title>Join the  <br /> Tycoonies Club </Title>
         <BtnContainer>
 
         <a href='https://discord.com/' aria-label='discord link' target="_blank" rel="noreferrer" >
