@@ -140,7 +140,7 @@ const Team = () => {
         <MemberComponent img={img1}  name="TRule" position="Founder & web3                                                                                                                            " />
         <MemberComponent img={img2}  name="Jiro" position="Co-Founder & Artist" />
         <MemberComponent img={img3}  name="Zoro" position="Marketing manager" />
-        <MemberComponent img={img4}  name="Em" position="Discord manager" />
+        <MemberComponent img={img4}  name="Em" position="Community manager" />
      
         
 

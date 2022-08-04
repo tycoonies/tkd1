@@ -101,8 +101,8 @@ useLayoutEffect(() => {
   <Accordion ScrollTrigger={ScrollTrigger} title="WILL THERE BE WHITELIST SPOTS?" >
   Whitelist spots will be given for some of our NFT collection. For more information follow us.
   </Accordion>
-  <Accordion ScrollTrigger={ScrollTrigger} title="WHAT IS THE METAVERSE?" >
-  A metaverse is a network of 3D virtual worlds focused on social connection. In futurism and science fiction, it is often described as a hypothetical iteration of the Internet as a single, universal virtual world that is facilitated by the use of virtual and augmented reality headsets.
+  <Accordion ScrollTrigger={ScrollTrigger} title="HOW TO CONTACT?" >
+  club@tycoonies.com
 
   </Accordion>
   <Accordion ScrollTrigger={ScrollTrigger} title="WHY DO WE NEED ROYALTIES?" >
