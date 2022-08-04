@@ -154,7 +154,7 @@ const About = () => {
           <Carousel /> </Suspense> </Box>
         <Box> 
         <Title>
-        Welcome To The <br /> Tycoonies Club.
+        Welcome To The <br /> Tycoonies.
         </Title>
         <SubText>
         The Tycoonies is a project aimed at building the P2E MMORPG game world on the solana blockchain. Tycoonie Kingdoms will be an open world game with lots of adventure and inside NFTS. In total we will provide 150,000 land tickets with which you can build your own castle in this magical world. Holding a land ticket gives you access to own a piece of land in game, early access to game, businesses in game , passive income , airdrops, ticket to exclusive prizes (will be revealed over time) and staking. The lands are in different sizes and features.
